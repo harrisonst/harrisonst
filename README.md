@@ -4,9 +4,7 @@ I'm Harrison Santos and this is my GitHub profile.
 #####
 - :computer: Data Science   
 - :man_technologist: Development   
--  :globe_with_meridians: Decentralization   
-- :earth_americas: Based in Brazil     
-
+-  :globe_with_meridians: Decentralization     
 - ⚡ Fun fact: I play saxophone  <br><br>
 
 - More about me: [LinkedIn](https://www.linkedin.com/in/harrison-santos-664a634a/)
