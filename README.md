@@ -9,6 +9,8 @@ I'm Harrison Santos and this is my GitHub profile.
 
 - ⚡ Fun fact: I play saxophone
 
+- More about me: [LinkedIn](https://www.linkedin.com/in/harrison-santos-664a634a/)
+
 <!--
 **harrisonst/harrisonst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
