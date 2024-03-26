@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Harrison Santos and this is my GitHub profile.
+
+#####
+- :computer: Data Science   
+- :man_technologist: Development   
+-  :globe_with_meridians: Decentralization   
+- :earth_americas: Based in Brazil     
+
+- ⚡ Fun fact: I play saxophone
 
 <!--
 **harrisonst/harrisonst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
