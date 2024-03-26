@@ -7,7 +7,7 @@ I'm Harrison Santos and this is my GitHub profile.
 -  :globe_with_meridians: Decentralization   
 - :earth_americas: Based in Brazil     
 
-- ⚡ Fun fact: I play saxophone
+- ⚡ Fun fact: I play saxophone  <br><br>
 
 - More about me: [LinkedIn](https://www.linkedin.com/in/harrison-santos-664a634a/)
 
